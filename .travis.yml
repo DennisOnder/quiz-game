@@ -4,4 +4,5 @@ node_js:
   - "node"
 
 after_script:
+  - npm start
   - npm test

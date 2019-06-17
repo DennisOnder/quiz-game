@@ -1,7 +1,10 @@
 /* eslint-disable no-undef */
 const chai = require("chai");
+const callApi = require("../utils/callApi");
 
-describe("2 + 2 = 4", () => {
-  const res = 2 + 2;
-  it("should return 4", () => chai.expect(res).to.eq(4));
+describe("Server Status", () => {
+  it("should return the status code of 200", async () => {
+    const res = await callApi("get", "/server/test");
+    chai.expect(res.status).to.eq(200);
+  });
 });
