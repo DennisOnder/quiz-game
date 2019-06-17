@@ -18,4 +18,5 @@ describe("Server Status", () => {
 
 after(done => {
   server.close(done);
+  process.exit(0);
 });
