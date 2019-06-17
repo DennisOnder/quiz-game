@@ -1,12 +1,16 @@
 const app = require("express")();
 const applyMiddleware = require("./middleware/applyMiddleware");
 const connectDB = require("./db/connect");
-const startServer = require("./lib/server");
 const applyRoutes = require("./router");
+const { PORT } = require("./config/config");
 
 applyMiddleware(app);
-startServer(app);
 applyRoutes(app);
 connectDB();
+
+app.listen(PORT, err => {
+  if (err) process.exit(1);
+  console.log(`Server running on http://localhost:${PORT}`);
+});
 
 module.exports = app;
