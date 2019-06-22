@@ -1,0 +1,422 @@
+[
+  {
+    "answers": ["Patella", "Tibia", "Fibula "],
+    "_id": "5d07acf07be9cb157e7b44ad",
+    "body": "Which of the following bones is not in the leg?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Radius",
+    "createdAt": "2019-06-17T15:08:32.788Z"
+  },
+  {
+    "answers": ["2K Games", "Activision", "Rockstar Games"],
+    "_id": "5d07acf07be9cb157e7b44ae",
+    "body": "Which company developed the video game &quot;Borderlands&quot;?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Gearbox Software",
+    "createdAt": "2019-06-17T15:08:32.792Z"
+  },
+  {
+    "answers": ["America", "Chicago", "Smokie"],
+    "_id": "5d07acf07be9cb157e7b44af",
+    "body": "Which band had hits in 1972 with the songs &quot;Baby I&#039;m A Want You&quot;, &quot;Everything I Own&quot; and &quot;The Guitar Man&quot;",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Bread",
+    "createdAt": "2019-06-17T15:08:32.793Z"
+  },
+  {
+    "answers": ["World War I", "World War II", "Revolutionary War"],
+    "_id": "5d07acf07be9cb157e7b44b0",
+    "body": "During what war did the &quot;Cuban Missile Crisis&quot; occur?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Cold War",
+    "createdAt": "2019-06-17T15:08:32.794Z"
+  },
+  {
+    "answers": ["RPK", "M16", "MG 42"],
+    "_id": "5d07acf07be9cb157e7b44b1",
+    "body": " What Russian automatic gas-operated assault rifle was developed in the Soviet Union in 1947, and is still popularly used today?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "AK-47",
+    "createdAt": "2019-06-17T15:08:32.794Z"
+  },
+  {
+    "answers": ["False"],
+    "_id": "5d07acf07be9cb157e7b44b2",
+    "body": "A slug&rsquo;s blood is green.",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "True",
+    "createdAt": "2019-06-17T15:08:32.795Z"
+  },
+  {
+    "answers": ["Griffon 65", "Merlin 50", "Merlin X"],
+    "_id": "5d07acf07be9cb157e7b44b3",
+    "body": "The Spitfire L.F. Mk IX had what engine?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Merlin 66",
+    "createdAt": "2019-06-17T15:08:32.795Z"
+  },
+  {
+    "answers": ["South Africa", "Australia", "Madagascar"],
+    "_id": "5d07acf07be9cb157e7b44b4",
+    "body": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "New Zealand",
+    "createdAt": "2019-06-17T15:08:32.795Z"
+  },
+  {
+    "answers": ["One Hot Minute", "By the Way", "Stadium Arcadium"],
+    "_id": "5d07acf07be9cb157e7b44b5",
+    "body": "The Red Hot Chili Pepper song &quot;Give It Away&quot; is from what album?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Blood Sugar Sex Magik",
+    "createdAt": "2019-06-17T15:08:32.796Z"
+  },
+  {
+    "answers": ["Michael Keaton", "Val Kilmer", "Christian Bale"],
+    "_id": "5d07acf07be9cb157e7b44b6",
+    "body": "Who played Batman in the 1997 film &quot;Batman and Robin&quot;?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "George Clooney",
+    "createdAt": "2019-06-17T15:08:32.796Z"
+  },
+  {
+    "answers": ["Passion Pit", "Phoenix", "Franz Ferdinand"],
+    "_id": "5d07acf07be9cb157e7b44b7",
+    "body": "Which band released songs such as &quot;Electric Feel&quot;, &quot;Kids&quot;, and &quot;Time to Pretend&quot;?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "MGMT",
+    "createdAt": "2019-06-17T15:08:32.796Z"
+  },
+  {
+    "answers": ["10", "8", "7"],
+    "_id": "5d07acf07be9cb157e7b44b8",
+    "body": "How many classes are there in Team Fortress 2?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "9",
+    "createdAt": "2019-06-17T15:08:32.797Z"
+  },
+  {
+    "answers": ["Blue", "Green", "Magenta"],
+    "_id": "5d07acf07be9cb157e7b44b9",
+    "body": "In &quot;Sonic the Hedgehog 3&quot; for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Orange",
+    "createdAt": "2019-06-17T15:08:32.797Z"
+  },
+  {
+    "answers": ["Jonny Buckland", "Guy Berryman", "Will Champion"],
+    "_id": "5d07acf07be9cb157e7b44ba",
+    "body": "Who is the lead singer of the British pop rock band Coldplay?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Chris Martin",
+    "createdAt": "2019-06-17T15:08:32.797Z"
+  },
+  {
+    "answers": [
+      "Aperture Lavatories",
+      "Aperture Science Innovators",
+      "Wheatley Laboratories"
+    ],
+    "_id": "5d07acf07be9cb157e7b44bb",
+    "body": "In the Portal series, Aperture Science was founded under what name in the early 1940s?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Aperture Fixtures",
+    "createdAt": "2019-06-17T15:08:32.798Z"
+  },
+  {
+    "answers": ["Nick Ramos", "Frank West", "Katie Greene"],
+    "_id": "5d07acf07be9cb157e7b44bc",
+    "body": "Who is the protagonist of the videogame &quot;Dead Rising 2&quot;?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Chuck Greene",
+    "createdAt": "2019-06-17T15:08:32.798Z"
+  },
+  {
+    "answers": ["Sub Sandwich", "Chicken Soup", "Pepperoni Pizza"],
+    "_id": "5d07acf07be9cb157e7b44bd",
+    "body": "Gordon Freeman is said to have burnt and destroyed what food in the break room microwave?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Casserole",
+    "createdAt": "2019-06-17T15:08:32.799Z"
+  },
+  {
+    "answers": ["50", "25", "69"],
+    "_id": "5d07acf07be9cb157e7b44be",
+    "body": "Five dollars is worth how many nickles?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "100",
+    "createdAt": "2019-06-17T15:08:32.800Z"
+  },
+  {
+    "answers": ["Mu", "Epsilon", "Kappa"],
+    "_id": "5d07acf07be9cb157e7b44bf",
+    "body": "What is the last letter of the Greek alphabet?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Omega",
+    "createdAt": "2019-06-17T15:08:32.800Z"
+  },
+  {
+    "answers": ["Candela", "Blanche", "Willow"],
+    "_id": "5d07acf07be9cb157e7b44c0",
+    "body": "Who is the leader of Team Instinct in Pok&eacute;mon Go?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Spark",
+    "createdAt": "2019-06-17T15:08:32.801Z"
+  },
+  {
+    "answers": ["Beth Smith", "Summer Smith", "Mr. Poopy Butthole"],
+    "_id": "5d07acf07be9cb157e7b44c1",
+    "body": "On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Pencilvester",
+    "createdAt": "2019-06-17T15:08:32.801Z"
+  },
+  {
+    "answers": [
+      "The overall size",
+      "The presence or absence of certain organelles",
+      "The mode of reproduction"
+    ],
+    "_id": "5d07acf07be9cb157e7b44c2",
+    "body": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "The presence or absence of a nucleus",
+    "createdAt": "2019-06-17T15:08:32.802Z"
+  },
+  {
+    "answers": ["False"],
+    "_id": "5d07acf07be9cb157e7b44c3",
+    "body": "United States President Ronald Reagan was the first president to appoint a woman to the Supreme Court. ",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "True",
+    "createdAt": "2019-06-17T15:08:32.802Z"
+  },
+  {
+    "answers": ["Ghosts n&#039; Ghouls", "Nerving Nights", "Fearful Frights"],
+    "_id": "5d07acf07be9cb157e7b44c4",
+    "body": "What&#039;s the name of the halloween-related Sims 4 Stuff Pack released September 29th, 2015?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Spooky Stuff",
+    "createdAt": "2019-06-17T15:08:32.803Z"
+  },
+  {
+    "answers": ["True"],
+    "_id": "5d07acf07be9cb157e7b44c5",
+    "body": "&quot;The Division Bell&quot; is the final album of the progressive rock band Pink Floyd.",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "False",
+    "createdAt": "2019-06-17T15:08:32.803Z"
+  },
+  {
+    "answers": ["Julian Robotnik", "Ivo Robotnik", "Snively Robotnik"],
+    "_id": "5d07acf07be9cb157e7b44c6",
+    "body": "In &quot;Sonic the Hedgehog&quot; comic, who was the creator of Roboticizer? ",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Professor Charles the Hedgehog",
+    "createdAt": "2019-06-17T15:08:32.803Z"
+  },
+  {
+    "answers": ["Blast Fencer", "Winged Viper", "Bastion Warrior"],
+    "_id": "5d07acf07be9cb157e7b44c7",
+    "body": "In Xenoblade Chronicles X, which class has a sniper rifle as it&#039;s primary weapon?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Partisan Eagle",
+    "createdAt": "2019-06-17T15:08:32.804Z"
+  },
+  {
+    "answers": ["True"],
+    "_id": "5d07acf07be9cb157e7b44c8",
+    "body": "Roger Federer is a famous soccer player.",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "False",
+    "createdAt": "2019-06-17T15:08:32.804Z"
+  },
+  {
+    "answers": ["Lolo", "Lucy", "Lulu"],
+    "_id": "5d07acf07be9cb157e7b44c9",
+    "body": "What is lost in Hawaiian and is also the name of a little girl in a 2002 film which features a alien named &quot;Stitch&quot;?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Lilo",
+    "createdAt": "2019-06-17T15:08:32.804Z"
+  },
+  {
+    "answers": ["Argentina", "Australia", "Angola"],
+    "_id": "5d07acf07be9cb157e7b44ca",
+    "body": ".at is the top-level domain for what country?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Austria",
+    "createdAt": "2019-06-17T15:08:32.805Z"
+  },
+  {
+    "answers": [
+      "Fetty Wap, Fetty Wap",
+      "Taylor Swift, 1989",
+      "Justin Bieber, Purpose"
+    ],
+    "_id": "5d07acf07be9cb157e7b44cb",
+    "body": "What was the best selling album of 2015?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Adele, 25",
+    "createdAt": "2019-06-17T15:08:32.805Z"
+  },
+  {
+    "answers": ["Oliver Queen", "Bart Allen", "Bruce Wayne"],
+    "_id": "5d07acf07be9cb157e7b44cc",
+    "body": "What is the name of the main character in &quot;The Flash&quot; TV series?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Barry Allen",
+    "createdAt": "2019-06-17T15:08:32.805Z"
+  },
+  {
+    "answers": ["30 lbs", "50 lbs", "70 lbs"],
+    "_id": "5d07acf07be9cb157e7b44cd",
+    "body": "How much weight did Chris Pratt lose for his role as Star-Lord in &quot;Guardians of the Galaxy&quot;?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "60 lbs",
+    "createdAt": "2019-06-17T15:08:32.805Z"
+  },
+  {
+    "answers": ["Velvet Shell", "Skull Rain", "Dust Line"],
+    "_id": "5d07acf07be9cb157e7b44ce",
+    "body": "Which operation in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; introduced the &quot;Skyscraper&quot; map?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Red Crow",
+    "createdAt": "2019-06-17T15:08:32.806Z"
+  },
+  {
+    "answers": ["10", "59", "79"],
+    "_id": "5d07acf07be9cb157e7b44cf",
+    "body": "In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "103",
+    "createdAt": "2019-06-17T15:08:32.806Z"
+  },
+  {
+    "answers": ["False"],
+    "_id": "5d07acf07be9cb157e7b44d0",
+    "body": "Kublai Khan is the grandchild of Genghis Khan?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "True",
+    "createdAt": "2019-06-17T15:08:32.806Z"
+  },
+  {
+    "answers": ["Cowboy Bebop", "High School DxD", "Gurren Lagann"],
+    "_id": "5d07acf07be9cb157e7b44d1",
+    "body": "Which of the following originated as a manga?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Akira",
+    "createdAt": "2019-06-17T15:08:32.807Z"
+  },
+  {
+    "answers": ["False"],
+    "_id": "5d07acf07be9cb157e7b44d2",
+    "body": "Android versions are named in alphabetical order.",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "True",
+    "createdAt": "2019-06-17T15:08:32.808Z"
+  },
+  {
+    "answers": [
+      "Enter the password &quot;Fly Honey&quot;",
+      "Enter the password &quot;Master Belch Rules&quot;",
+      "Enter the password &quot;Mr Saturn Drools&quot;"
+    ],
+    "_id": "5d07acf07be9cb157e7b44d3",
+    "body": "In &quot;Earthbound&quot;, how does one enter &quot;Master Belch&#039;s&quot; factory?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Wait 3 Minutes",
+    "createdAt": "2019-06-17T15:08:32.808Z"
+  },
+  {
+    "answers": ["Eric Tignor", "Bill Nye", "Zach Soldi"],
+    "_id": "5d07acf07be9cb157e7b44d4",
+    "body": "Who invented Pastafarianism?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Bobby Henderson",
+    "createdAt": "2019-06-17T15:08:32.808Z"
+  },
+  {
+    "answers": ["Ring of Steel", "Vendetta", "Eviction"],
+    "_id": "5d07acf07be9cb157e7b44d5",
+    "body": "What is the name of the first level in &quot;Call of Duty: World at War&quot;?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Semper Fi",
+    "createdAt": "2019-06-17T15:08:32.809Z"
+  },
+  {
+    "answers": ["Nirvana", "Coldplay", "U2"],
+    "_id": "5d07acf07be9cb157e7b44d6",
+    "body": "Which rock band released the album &quot;The Bends&quot; in March 1995?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Radiohead",
+    "createdAt": "2019-06-17T15:08:32.809Z"
+  },
+  {
+    "answers": [
+      "Ramsay&#039;s Kitchen Nightmares",
+      "Hotel Hell",
+      "Hell&#039;s Kitchen"
+    ],
+    "_id": "5d07acf07be9cb157e7b44d7",
+    "body": "In which of these TV shows did the chef Gordon Ramsay not appear?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Auction Hunters",
+    "createdAt": "2019-06-17T15:08:32.809Z"
+  },
+  {
+    "answers": ["Yasnaya Polyana", "Pochinki", "Georgopol"],
+    "_id": "5d07acf07be9cb157e7b44d8",
+    "body": "Which of these is NOT a name of a city in the main island of PLAYERUNKNOWN&#039;S BATTLEGROUNDS?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Belushya Guba",
+    "createdAt": "2019-06-17T15:08:32.810Z"
+  },
+  {
+    "answers": ["False"],
+    "_id": "5d07acf07be9cb157e7b44d9",
+    "body": "An episode of &quot;The Simpsons&quot; is dedicated to Moe Szyslak&#039;s bar rag.",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "True",
+    "createdAt": "2019-06-17T15:08:32.810Z"
+  },
+  {
+    "answers": ["Revenant", "Beast of Burden", "Dirtcowl Wurm"],
+    "_id": "5d07acf07be9cb157e7b44da",
+    "body": "In Magic: The Gathering, which of the following was the first publicly released foil card?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Lightning Dragon",
+    "createdAt": "2019-06-17T15:08:32.812Z"
+  },
+  {
+    "answers": ["Jacob deGrom", "Shelby Miller", "Matt Harvey"],
+    "_id": "5d07acf07be9cb157e7b44db",
+    "body": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Jose Fernandez",
+    "createdAt": "2019-06-17T15:08:32.813Z"
+  },
+  {
+    "answers": ["Spore Frog", "Bloated Toad", "Frogmite"],
+    "_id": "5d07acf07be9cb157e7b44dc",
+    "body": "What Magic: The Gathering card&#039;s flavor text is just &#039;Ribbit.&#039;?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Turn to Frog",
+    "createdAt": "2019-06-17T15:08:32.813Z"
+  },
+  {
+    "answers": ["Red", "Black", "Purple"],
+    "_id": "5d07acf07be9cb157e7b44dd",
+    "body": "Chartreuse is a color between yellow and what?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Green",
+    "createdAt": "2019-06-17T15:08:32.814Z"
+  },
+  {
+    "answers": ["Mary", "Christine", "Angeline"],
+    "_id": "5d07acf07be9cb157e7b44de",
+    "body": "In the Friday The 13th series, what is Jason&#039;s mother&#039;s first name?",
+    "providedBy": "OpenTDB API",
+    "correctAnswer": "Pamela",
+    "createdAt": "2019-06-17T15:08:32.814Z"
+  }
+]
