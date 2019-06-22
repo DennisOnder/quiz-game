@@ -7,26 +7,23 @@ const questionSchema = new mongoose.Schema({
   },
   providedBy: {
     type: String,
-    required: false
+    default: "Anonymous"
   },
   answers: [
     {
-      body: {
-        type: String,
-        required: true
-      },
-      correct: {
-        type: Boolean,
-        required: true
-      }
+      type: String
     }
   ],
+  correctAnswer: {
+    type: String,
+    required: true
+  },
   createdAt: {
     type: Date,
     default: Date.now
   }
 });
 
-const question = mongoose.model("question", questionSchema);
+const Question = mongoose.model("question", questionSchema);
 
-module.exports = question;
+module.exports = Question;

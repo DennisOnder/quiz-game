@@ -16,7 +16,7 @@ describe("Server Status", () => {
   });
 });
 
-after(done => {
-  server.close(done);
+after(() => {
+  server.close();
   process.exit(0);
 });
