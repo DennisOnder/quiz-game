@@ -12,6 +12,8 @@
 
 > If no data has been provided, there is a fallback API call to the OpenTDB API which provides the data in that case.
 
+> A sample file has been provided in the repository.
+
 > JSON example:
 
 ```json
